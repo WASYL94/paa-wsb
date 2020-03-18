@@ -9,6 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "acorn": "^7.1.1",
     "azure-storage": "^2.10.3",
     "debug": "^4.1.1",
     "koa": "^2.7.0",
@@ -20,6 +21,7 @@
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "koa-views": "^6.2.0",
+    "minimist": "^1.2.5",
     "pug": "^2.0.3",
     "uuid": "^7.0.2"
   },
