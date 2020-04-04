@@ -12,6 +12,7 @@
     "acorn": "^7.1.1",
     "azure-storage": "^2.10.3",
     "debug": "^4.1.1",
+    "kind-of": "^6.0.3",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-convert": "^1.2.0",
